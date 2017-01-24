@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GameEnchanter</string>
+    <string name="concert">Team For Concert</string>
+    <string name="card">Card</string>
+    <string name="team">Team</string>
+    <string name="blue_team">Blue Team</string>
+    <string name="team_one">Team One</string>
+    <string name="team_two">Team Two</string>
+    <string name="team_three">Team Three</string>
+    <string name="special_events">Special Events</string>
+    <string name="mini_events">Mini Events</string>
+    <string name="mini_event_1">%1$s</string>
+    <string name="mini_event_2">%1$s</string>
+    <string name="mini_event_3">%1$s</string>
+    <string name="mini_event_4">%1$s</string>
+    <string name="mini_event_1_answer">%1$s</string>
+    <string name="mini_event_2_answer">%1$s</string>
+    <string name="mini_event_3_answer">%1$s</string>
+    <string name="mini_event_4_answer">%1$s</string>
+    <string name="close_events">Close Events</string>
+    <string name="close_event_1">%1$s</string>
+    <string name="close_event_2">%1$s</string>
+    <string name="close_event_3">%1$s</string>
+    <string name="close_event_1_part">%1$s</string>
+    <string name="close_event_2_part">%1$s</string>
+    <string name="close_event_3_part">%1$s</string>
+    <string name="setting">Setting</string>
+    <string name="import_event_excel">Import Event Excel</string>
+</resources>
